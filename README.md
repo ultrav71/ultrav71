@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ultrav71
-- 👀 I’m interested in sequencing and viral genomics.
+- 👀 I’m interested in sequencing, viral genomics, genomics in general, and bioinformatics.
 - 🌱 I’m currently learning RStudio. 
 
 - 📫 How to reach me - here
